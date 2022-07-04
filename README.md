@@ -64,5 +64,5 @@ Based on deatiled analysis below are some of the attributes (but not limited to)
 ## Acknowledgements
 - This project was based on UpGrad AIML Course Case Study
 
-## Contact
+## Contacts
 -Created by [@PaulMadhusmita] - feel free to contact me!
