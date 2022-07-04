@@ -18,7 +18,7 @@ Identifiying these risky loan applicants prior to loan approval can reduce the a
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
-* [Contacts](#contacts)
+* [Contact](#contact)
 
 ## General Information
 Risk Analysis has been carried on based on the available dataset with respect to the descriptions available in the data dictionary, as per below steps:
@@ -64,5 +64,5 @@ Based on deatiled analysis below are some of the attributes (but not limited to)
 ## Acknowledgements
 - This project was based on UpGrad AIML Course Case Study
 
-## Contacts
+## Contact
 -Created by [@PaulMadhusmita] - feel free to contact me!
